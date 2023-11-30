@@ -2,7 +2,7 @@ Private Policy:
 
 Introduction:
 
-Our privacy policy will help you understand what information we collect at PDF Translator, how PDF Translator uses it, and what choices you have. Rajaram Bhaskaran built the PDF Translator as a free and paid subscription app. For Paid Subscription, You will get Ad free App version. If you choose to use our Free or Paid Service, then you agree to the collection and use of information in relation with this policy.
+Our privacy policy will help you understand what information we collect at PDF Language Translator, how PDF Language Translator uses it, and what choices you have. Rajaram Bhaskaran built the PDF Language Translator as a free and paid subscription app. For Paid Subscription, You will get Ad free App version. If you choose to use our Free or Paid Service, then you agree to the collection and use of information in relation with this policy.
 
 Paid Services
 
