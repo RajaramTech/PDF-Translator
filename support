@@ -27,7 +27,7 @@ Explore the following capabilities:
 
 ### PDF Translator
 
-PDF Translator appears on the first page with a box where you need to browse the PDF File from your device using browse button. Please select a PDF in English. Select your language pack to translate. Afterward, click 'download' if the pack is unavailable in your device. Once downloaded, you have two options to translate your PDF either as a text or PDF File. Chose the relevant option. Once it is converted as a PDF, the PDF is automatically added to the PDF Manager on the second page. For text converter, you have copy option to copy the entire content to paste it whereever you want. 
+PDF Translator appears on the first page with a box where you need to browse the PDF File from your device using browse button. Please select a PDF File. Select your source language and target language to translate. If selected language AI Pack is not available, it will ask you to download the AI Language model. Each Language Model is 30 MB. For English Translation, you dont need Language Model to download. Afterward, click download. Once downloaded, you have two options to translate your PDF either as a text or PDF File. Chose the relevant option. Once it is converted as a PDF, the PDF is automatically added to the PDF Manager on the second page. For text converter, you have copy option to copy the entire content to paste it wherever you want.
 
 ### PDF Viewer
 
